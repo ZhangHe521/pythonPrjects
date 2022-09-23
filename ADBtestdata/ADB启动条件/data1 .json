@@ -1,0 +1,7 @@
+{
+    "illumination":7000,
+    "vehicleSpeed":8.33,
+    "lowBeamSwitch":1,
+    "highBeamSwitch":1,
+    "ADBSwitch":true
+}
